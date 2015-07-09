@@ -46,7 +46,7 @@ hi Function ctermfg=75 ctermbg=NONE cterm=bold guifg=#a6e22e guibg=NONE gui=NONE
 hi Identifier ctermfg=81 ctermbg=NONE cterm=NONE guifg=#66d9ef guibg=NONE gui=italic
 hi Keyword ctermfg=197 ctermbg=NONE cterm=bold guifg=#f92672 guibg=NONE gui=NONE
 hi Label ctermfg=186 ctermbg=NONE cterm=NONE guifg=#e6db74 guibg=NONE gui=NONE
-hi NonText ctermfg=59 ctermbg=236 cterm=NONE guifg=#49483e guibg=#31322c gui=NONE
+hi NonText ctermfg=59 ctermbg=234 cterm=NONE guifg=#49483e guibg=#31322c gui=NONE
 hi Number ctermfg=185 ctermbg=NONE cterm=NONE guifg=#ae81ff guibg=NONE gui=NONE
 hi Operator ctermfg=208 ctermbg=NONE cterm=NONE guifg=#f92672 guibg=NONE gui=NONE
 hi PreProc ctermfg=197 ctermbg=NONE cterm=NONE guifg=#f92672 guibg=NONE gui=NONE
@@ -57,7 +57,7 @@ hi StorageClass ctermfg=81 ctermbg=NONE cterm=NONE guifg=#66d9ef guibg=NONE gui=
 hi String ctermfg=154 ctermbg=NONE cterm=NONE guifg=#e6db74 guibg=NONE gui=NONE
 hi Tag ctermfg=197 ctermbg=NONE cterm=NONE guifg=#f92672 guibg=NONE gui=NONE
 hi Title ctermfg=231 ctermbg=NONE cterm=bold guifg=#f8f8f2 guibg=NONE gui=bold
-hi Todo ctermfg=237 ctermbg=247 cterm=inverse,bold guifg=#75715e guibg=NONE gui=inverse,bold
+hi Todo ctermfg=247 ctermbg=237 cterm=inverse,bold guifg=#75715e guibg=NONE gui=inverse,bold
 hi Type ctermfg=45 ctermbg=NONE cterm=NONE guifg=#f92672 guibg=NONE gui=NONE
 hi Underlined ctermfg=NONE ctermbg=NONE cterm=underline guifg=NONE guibg=NONE gui=underline
 hi rubyClass ctermfg=197 ctermbg=NONE cterm=NONE guifg=#f92672 guibg=NONE gui=NONE
